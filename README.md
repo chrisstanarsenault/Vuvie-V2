@@ -1,29 +1,5 @@
-# vuvie-v2
+# Vuvie-V2
 
-## Project setup
-```
-npm install
-```
+A movie Database app built to grow my knowledge of Vue3, Vue-Router, Typescript, Jest/VTU, and Tailwind.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Movie data is gathered using the [MovieDB API]('https://developers.themoviedb.org/3')
